@@ -12,7 +12,9 @@ I have a love for coding and problem solving, and often time enjoy my time solvi
 
 **Currently working on:** NLP language translator - https://github.com/victorgooge/codepath-groupproj
 
-If you'd like to know more about me, you can find my LinkedIn & Resume here: https://www.linkedin.com/in/victor-googe-151037268/ 🙂
+If you'd like to know more about me, you can find my LinkedIn & Resume here: https://www.linkedin.com/in/victor-googe-151037268/ 
+
+🙂
 
 
 
